@@ -14,6 +14,9 @@ Programmer that loves IT and coding, always in search of knowledge and improveme
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Current developing projects:
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wildevn&repo=Global_Rockets&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wildevn/Global_Rockets)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wildevn&repo=web-flappy-bird&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wildevn/web-flappy-bird)
