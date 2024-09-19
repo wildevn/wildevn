@@ -28,5 +28,5 @@ Programmer that loves IT and coding, always in search of knowledge and improveme
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Current developing projects:
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wildevn&repo=EncontreNaUfms&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wildevn/EncontreNaUfms)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wildevn&repo=Global_Rockets&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wildevn/Global_Rockets)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wildevn&repo=web-flappy-bird&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/wildevn/web-flappy-bird)
